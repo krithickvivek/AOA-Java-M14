@@ -37,7 +37,7 @@ A single integer: Maximum net energy collectable from a contiguous block (wrappi
 Program to implement kadane's algorithm
 
 Developed by: Krithick Vivekananda 
-Register Number: 212223230047
+Register Number: 212223240075
 
 import java.util.*;
 
